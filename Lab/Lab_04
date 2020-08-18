@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab_04</title>
+    <link rel="stylesheet" href="path/to/style.css"/>
+    <style>
+        /* CSS */
+        table,th,td{
+          font-family:serif;
+          height:50px;
+        }
+        table { 
+  border:5px solid blue; 
+    font-size:16px; 
+  width: 1000px;
+  border:1px solid #000;
+  text-align:center;
+  border-collapse:collapse;
+ 
+} 
+td { 
+  border:1px solid #000;
+  padding:5px;
+  background-color:rgb(211, 241, 253)
+}
+th{
+  border:1px solid black;
+  background-color: rgb(202, 202, 202);
+} 
+body {
+  background-image: url("doraemon.jpg");
+  background-position: right;
+
+}
+
+
+    </style>
+</head>
+<body>
+</p>
+<table > 
+        <caption style= "background-color:rgb(255, 174, 97)" >課表</caption>
+         <tdead>
+           <tr>
+             <th></th>
+             <th>星期一</th>
+             <th>星期二</th>
+             <th>星期三</th>
+             <th>星期四</th>
+             <th>星期五</th>
+           </tr>
+         </tdead>
+         <tbody>
+           <tr>
+            <th>9:10</th>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+            <td>軟體工程專題</td>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+           </tr>
+           <tr>
+            <th>10:10</th>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+            <td>軟體工程專題</td>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+           </tr>
+           <tr>
+            <th>11:10</th>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+            <td>軟體工程專題</td>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+           </tr>
+           <tr><th>12:10</th>
+           
+            <td colspan="5" style= "background-color:ivory" ><font size=6><strong>午休</strong></font></td>
+          </tr>
+
+           <tr>
+            <th>13:10</th>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+            <td>軟體工程專題</td>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+           </tr>
+           <tr>
+            <th>14:10</th>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+            <td>軟體工程專題</td>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+           </tr>
+           <tr>
+            <th>15:10</th>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+            <td>軟體工程專題</td>
+            <td>pytdon基礎程式設計</td>
+            <td>Web基礎程式設計</td>
+           </tr>
+           <tr><th>16:10</th></td>
+           <td colspan="5" style= "background-color:ivory" ></td>
+          </tr>
+         </tbody>
+        
+       
+          
+          </table>
+
+
+    
+<body>
+    
+
+</html>
