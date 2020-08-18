@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="widtd=device-widtd, initial-scale=1.0">
+    <title>Lab_03</title>
+    <link rel="stylesheet" href="patd/to/style.css"/>
+
+</head>
+
+<body>
+
+    </p>
+    <table width="900" border="1"> 
+            <caption style="font-size: 3rem">LAB彙整表</p></caption>
+           
+               <tr style= "background-color:rgb(193, 231, 236)" ALIGN=CENTER VALIGN=TOP >
+                <td style ="text-align: center">LAB</td>
+                <td style ="text-align: center">描述</td>
+                <td style ="text-align: center">超連結</td>
+               </tr>
+            
+               <tr style= "background-color:lightyellow">
+                <td width="300" VALIGN=TOP >
+                <p>Lab 01 - 課表</p> 
+                <p>Lab 02 - 美化課表</p> 
+                <p>Lab 03 - 彙整Lab</p>
+
+                <td VALIGN=TOP >
+                  
+                <p></p>使用表格標籤製作一份課表</p> 
+                <p>使用style屬性美化課表</p> 
+                <p>建立所有Lab的彙整頁面</p>
+                
+                </td>
+
+                <td VALIGN=TOP>
+                <p><a href="Lab_01.html">Lab_01.html</a></p>
+                <p><a href="Lab_02.html">Lab_02.html</a></p>
+                <p><a href="Lab_03.html">Lab_03.html</a></p>
+                </td>
+                    
+                
+            
+             
+            
+           
+              
+              </table>
+
+        
+ 
+
+
+
+</body>
+</html>
